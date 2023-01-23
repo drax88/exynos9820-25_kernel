@@ -83,7 +83,7 @@ models = {
         'config': 'exynos9820-beyond0lte_defconfig'
     },
     'G973F': {
-        'config': 'exynos9820-beyond1lte_defconfig'
+        'config': 'kali_d2s_defconfig'
     },
     'G975F': {
         'config': 'exynos9820-beyond2lte_defconfig'
