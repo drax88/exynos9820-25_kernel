@@ -17,7 +17,6 @@ then
 	echo "Kernel Successfully Compiled"
 else
 	echo "Kernel Compilation Failed!"
-	tg_post_msg "<code>Kernel Compilation Failed</code>"
 	exit
 
 fi
