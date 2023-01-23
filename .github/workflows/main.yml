@@ -14,6 +14,5 @@ jobs:
         
       - name: build
         env:
-          token: ${{ secrets.TOKEN }}
-        run: chmod +x build.sh && ./build.sh "${token}"
+        run: chmod +x build.sh && ./build.sh
 
